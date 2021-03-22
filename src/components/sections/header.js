@@ -27,14 +27,14 @@ const Header = () => {
       <Container>
         <Flex>
           <HeaderTextGroup>
-            <Subtitle>Personal Finance</Subtitle>
+            <Subtitle>Make More Money</Subtitle>
             <h1>
-              All your money,
+              Banking for Creators
               <br />
-              one account
+              by Creators
             </h1>
             <h2>
-              We're building next generation personal finance tools. Sign up to
+              We're building tools to help you find your audience, make more money, and build a business around your content. Sign up to
               get early access.
             </h2>
             <HeaderForm onSubmit={handleSubmit}>

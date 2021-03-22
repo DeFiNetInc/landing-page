@@ -7,41 +7,40 @@ const Features = () => (
   <Section id="features">
     <StyledContainer>
       <Subtitle>Features</Subtitle>
-      <SectionTitle>Smart money management</SectionTitle>
+      <SectionTitle>Tools For Creators</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
-          <FeatureTitle>Notifications</FeatureTitle>
+          <FeatureTitle>Banking</FeatureTitle>
           <FeatureText>
-            Receive budget and spending alerts based on your favorite triggers.
+            Connect your own bank account or use one of ours
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Security</FeatureTitle>
+          <FeatureTitle>Build your Audience</FeatureTitle>
           <FeatureText>
-            Your data is always safe with us as we use the latest security
-            protocols.
+            We help you analyze the performance of your content and connect you to your audience.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Automation</FeatureTitle>
+          <FeatureTitle>Focus</FeatureTitle>
           <FeatureText>
-            Create smart automated workflows and triggers for your money.
+            You focus on your content. We help you make money from it.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Aggregation</FeatureTitle>
+          <FeatureTitle>Choose your Platforms</FeatureTitle>
           <FeatureText>
-            Easily link up to 5 banks to your finance account.
+            You create your content anywhere you want.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>Payments</FeatureTitle>
-          <FeatureText>Send money to friends and family with ease.</FeatureText>
+          <FeatureText>Easily accept payments</FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Rewards</FeatureTitle>
+          <FeatureTitle>Deals</FeatureTitle>
           <FeatureText>
-            High interest and rewards for hitting your goals.
+            We are partnering with companies that provide you the products and services you need to create your content.
           </FeatureText>
         </FeatureItem>
       </FeaturesGrid>
