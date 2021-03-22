@@ -10,6 +10,11 @@
       "StackName": "amplify-landingpage-dev-143850",
       "StackId": "arn:aws:cloudformation:us-east-2:702658285050:stack/amplify-landingpage-dev-143850/dab12340-8b3d-11eb-a343-0255d4fcdd9c",
       "AmplifyAppId": "d1o2pvb717yadj"
+    },
+    "categories": {
+      "auth": {
+        "landingpage80d05f23": {}
+      }
     }
   }
 }

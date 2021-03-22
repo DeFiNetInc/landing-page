@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "landingpage80d05f23": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
