@@ -1,6 +1,6 @@
 import React from "react"
 import { navigate } from "@reach/router"
-import { isLoggedIn } from "../utils/auth"
+import { isLoggedIn } from "../../../services/auth"
 
 class PrivateRoute extends React.Component {
   render() {

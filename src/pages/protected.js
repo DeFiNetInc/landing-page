@@ -10,15 +10,13 @@ import Features from "../components/sections/features"
 import Footer from "../components/sections/footer"
 import GetStarted from "../components/sections/getstarted"
 import Creators from "../components/sections/creators"
+import AddBlog from "../components/blog/addBlog"
 
 const ProtectedPage = () => (
   <Layout>
     <SEO title="Home" />
     <Navigation />
-    <Header />
-    <Features />
-    <Creators />
-    <GetStarted />
+    <AddBlog />
     <Footer />
   </Layout>
 )
