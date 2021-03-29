@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-saas-marketing",
+  "name": "definet-frontend",
   "private": true,
-  "description": "A simple one page marketing starter for saas companies",
+  "description": "DeFiNet: Banking for Creators, by Creators",
   "version": "0.1.0",
   "author": "Keegan Burkett <keegan.2.burkett@gmail.com>",
   "dependencies": {
