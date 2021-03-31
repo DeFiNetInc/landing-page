@@ -3,7 +3,7 @@
   "private": true,
   "description": "DeFiNet: Banking for Creators, by Creators",
   "version": "0.1.0",
-  "author": "Keegan Burkett <keegan.2.burkett@gmail.com>",
+  "author": "Leo Guinan <leo@definet.dev>",
   "dependencies": {
     "@aws-amplify/ui-react": "^1.0.5",
     "aws-amplify": "^3.3.25",

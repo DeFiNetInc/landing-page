@@ -14,9 +14,10 @@
       "output": {
         "authConfig": {
           "defaultAuthentication": {
-            "authenticationType": "AMAZON_COGNITO_USER_POOLS",
-            "userPoolConfig": {
-              "userPoolId": "authlandingpage80d05f23"
+            "authenticationType": "API_KEY",
+            "apiKeyConfig": {
+              "apiKeyExpirationDays": 7,
+              "description": "subscriber key"
             }
           },
           "additionalAuthenticationProviders": []
